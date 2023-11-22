@@ -1,0 +1,124 @@
+{
+	"productsData": [
+		{
+			"id": 1,
+			"name": "Apple iPhone 13",
+			"description": "The latest iPhone with a stunning Super Retina XDR display.",
+			"price": 999.99
+		},
+		{
+			"id": 2,
+			"name": "Samsung Galaxy Watch 4",
+			"description": "A feature-packed smartwatch with health and fitness tracking.",
+			"price": 299.99
+		},
+		{
+			"id": 3,
+			"name": "Sony WH-1000XM4 Headphones",
+			"description": "Industry-leading noise-canceling headphones for an immersive audio experience.",
+			"price": 349.99
+		},
+		{
+			"id": 4,
+			"name": "Dyson V11 Absolute Vacuum Cleaner",
+			"description": "Powerful cordless vacuum with intelligent suction for deep cleaning.",
+			"price": 599.99
+		},
+		{
+			"id": 5,
+			"name": "Nintendo Switch",
+			"description": "Versatile gaming console for at-home and on-the-go gaming.",
+			"price": 299.99
+		},
+		{
+			"id": 6,
+			"name": "Canon EOS R5 Mirrorless Camera",
+			"description": "High-resolution mirrorless camera with 8K video recording capabilities.",
+			"price": 3899.99
+		},
+		{
+			"id": 7,
+			"name": "Bose QuietComfort Earbuds",
+			"description": "Wireless earbuds with world-class noise cancellation and clear audio.",
+			"price": 279.99
+		},
+		{
+			"id": 8,
+			"name": "LG OLED C1 Series 4K TV",
+			"description": "Stunning OLED TV with perfect blacks and vibrant colors for an immersive viewing experience.",
+			"price": 1499.99
+		},
+		{
+			"id": 9,
+			"name": "Fitbit Charge 5",
+			"description": "Advanced fitness tracker with built-in GPS and health monitoring features.",
+			"price": 179.99
+		},
+		{
+			"id": 10,
+			"name": "Amazon Echo Show 10",
+			"description": "Smart display with motion tracking for hands-free video calls and entertainment.",
+			"price": 249.99
+		},
+		{
+			"id": 11,
+			"name": "Microsoft Surface Laptop 4",
+			"description": "Sleek and powerful laptop with a high-resolution PixelSense touchscreen.",
+			"price": 1299.99
+		},
+		{
+			"id": 12,
+			"name": "GoPro HERO9 Black",
+			"description": "Waterproof action camera with 5K video and 20MP photos for epic adventures.",
+			"price": 449.99
+		},
+		{
+			"id": 13,
+			"name": "KitchenAid Stand Mixer",
+			"description": "Iconic stand mixer for baking and cooking with various attachments.",
+			"price": 399.99
+		},
+		{
+			"id": 14,
+			"name": "Nespresso Vertuo Coffee Maker",
+			"description": "Single-serve coffee maker with a variety of coffee and espresso options.",
+			"price": 179.99
+		},
+		{
+			"id": 15,
+			"name": "HP Spectre x360 Laptop",
+			"description": "Convertible laptop with a stunning display and powerful performance.",
+			"price": 1299.99
+		},
+		{
+			"id": 16,
+			"name": "Sonos Beam Soundbar",
+			"description": "Compact smart soundbar with clear dialogue and immersive sound for your TV.",
+			"price": 399.99
+		},
+		{
+			"id": 17,
+			"name": "Garmin Forerunner 945 GPS Watch",
+			"description": "Advanced GPS watch for running, cycling, and multisport activities.",
+			"price": 599.99
+		},
+		{
+			"id": 18,
+			"name": "Razer BlackWidow Elite Mechanical Gaming Keyboard",
+			"description": "Mechanical gaming keyboard with customizable RGB lighting and dedicated media controls.",
+			"price": 169.99
+		},
+		{
+			"id": 19,
+			"name": "Anker PowerCore Portable Charger",
+			"description": "High-capacity portable charger for charging devices on the go.",
+			"price": 49.99
+		},
+		{
+			"id": 20,
+			"name": "LG UltraGear 27GN950-B Gaming Monitor",
+			"description": "27-inch 4K UHD gaming monitor with a 144Hz refresh rate for smooth gameplay.",
+			"price": 799.99
+		}
+	]
+}
