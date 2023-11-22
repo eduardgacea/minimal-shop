@@ -12,7 +12,7 @@ const StyledButton = styled.button`
 	transition: all 0.3s;
 	cursor: pointer;
 
-	${(props) => props.$extraStyles}
+	${(props) => props?.$extraStyles}
 
 	&:hover {
 		color: white;
